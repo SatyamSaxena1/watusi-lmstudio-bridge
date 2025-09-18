@@ -1,3 +1,5 @@
+Deprciated because upon review the coder found his previeous state to be drunk and high at the same time. the code was bullshit emmited from his fingers during that period.
+coder thought he was a genius.
 WhatsApp Auto-Reply with LM Studio (Local LLM)
 
 Overview
